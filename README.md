@@ -1,6 +1,6 @@
 # Hi! Everyone, This is my portfolio.
 
-This is my 2nd day of learning Web Development, and i am really enjoying it.
+I have completed one week of learing Web Development, and i am really enjoying it and excited to continue my journey.
 A big shoutout to Tanay Bhaiya...will make some cool projects soon.
 
 For now, i have learned following basics:
